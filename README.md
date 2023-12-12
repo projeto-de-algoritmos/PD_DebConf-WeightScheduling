@@ -10,10 +10,10 @@
 
 ## Sobre 
 
-Esse trabalho é uma evolução do ()
+Esse trabalho é uma evolução do [DebConfScheduling](https://github.com/projeto-de-algoritmos/Greed_DebConfScheduling/tree/master)
 
 Todo ano em algum lugar do mundo acontece a DebConf, com vários dias de atividades e palestras.
-Esse ano o evento aconteceu na Índia, e para facilitar a escolha de quais atividades participar, esse projeto irá ajudar a montar um cronograma de atividades de acordo com o dia que você gostaria de participar.
+Esse ano o evento aconteceu na Índia, e para facilitar a escolha de quais atividades participar, esse projeto irá ajudar a montar um cronograma de atividades de acordo com o dia selecionado por você.
 Diferente do trabalho anterior, esse leva em consideração não apenas o menor tempo de ócio entre as atividades do cronograma, mas especialmente o tipo de atividade que o usuário tem preferência. Elas podem ser de 5 tipos:
 
 - **Long talk (45 minutes)**: São as palestras mais longas do evento.
