@@ -1,0 +1,394 @@
+{
+    "Sunday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian Experience & Outreachy Project: Improve yarn package manager integration with Debian.",
+            "horario_inicio": "10:30",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian.net team BoF",
+            "horario_inicio": "11:30",
+            "horario_fim": "12:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Live Coding for art, sound and visuals",
+            "horario_inicio": "12:30",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian Med BoF",
+            "horario_inicio": "15:30",
+            "horario_fim": "16:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "The year of Linux On Desktop^WMobile",
+            "horario_inicio": "16:30",
+            "horario_fim": "17:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "debian.social BoF",
+            "horario_inicio": "17:30",
+            "horario_fim": "18:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Ruby team BoF",
+            "horario_inicio": "18:00",
+            "horario_fim": "18:45",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "19:00",
+            "horario_fim": "22:30",
+            "tipo": "Other"
+        }
+    ],
+    "Monday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Open Source Tools for Research",
+            "horario_inicio": "10:30",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "A declarative approach to Linux networking with Netplan",
+            "horario_inicio": "11:30",
+            "horario_fim": "11:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Live packaging workshop",
+            "horario_inicio": "12:00",
+            "horario_fim": "12:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Quick peek at ZFS, A too good to be true file system and volume manager.",
+            "horario_inicio": "12:30",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "GNOME community and ways to engage.",
+            "horario_inicio": "15:30",
+            "horario_fim": "16:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "16:30",
+            "horario_fim": "16:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Bits from the DPL",
+            "horario_inicio": "17:00",
+            "horario_fim": "17:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Sustainable Digital Intervention in Tribal and Remote areas of Andhra Pradesh using Freedom Box.",
+            "horario_inicio": "17:30",
+            "horario_fim": "18:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Chatting with ftpmasters",
+            "horario_inicio": "18:00",
+            "horario_fim": "18:45",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Private meeting",
+            "horario_inicio": "19:00",
+            "horario_fim": "22:30",
+            "tipo": "Other"
+        }
+    ],
+    "Friday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "10:30",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Java and FIPS",
+            "horario_inicio": "11:30",
+            "horario_fim": "12:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "What's new in the Linux kernel (and what's missing in Debian)",
+            "horario_inicio": "12:30",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Uplifting the gross roots using FOSS communities",
+            "horario_inicio": "15:30",
+            "horario_fim": "15:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "A Guided Tour to Debian Installer Development",
+            "horario_inicio": "16:00",
+            "horario_fim": "16:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Past and future changes to the Debian web pages",
+            "horario_inicio": "16:30",
+            "horario_fim": "17:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Afternoon break",
+            "horario_inicio": "17:30",
+            "horario_fim": "18:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Isar - Building Images with the Power of Debian",
+            "horario_inicio": "18:00",
+            "horario_fim": "18:45",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "use Perl; # Annual meeting of the Debian Perl Group",
+            "horario_inicio": "19:00",
+            "horario_fim": "22:30",
+            "tipo": "Other"
+        }
+    ],
+    "Wednesday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Day trip",
+            "horario_inicio": "10:30",
+            "horario_fim": "12:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "12:30",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Dinner",
+            "horario_inicio": "15:30",
+            "horario_fim": "19:00",
+            "tipo": "Other"
+        }
+    ],
+    "Saturday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Intro to SecureDrop, a sort-of Linux distro",
+            "horario_inicio": "10:30",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian Diversity BoF",
+            "horario_inicio": "11:30",
+            "horario_fim": "11:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Python BoF",
+            "horario_inicio": "12:00",
+            "horario_fim": "12:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "The Docker(.io) ecosystem in Debian",
+            "horario_inicio": "12:30",
+            "horario_fim": "12:45",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Usability Report for the Debian Installation Process",
+            "horario_inicio": "12:45",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "LXQt Team Bof",
+            "horario_inicio": "15:30",
+            "horario_fim": "15:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Chiselled containers",
+            "horario_inicio": "16:00",
+            "horario_fim": "16:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Bits from Brazil",
+            "horario_inicio": "16:30",
+            "horario_fim": "16:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Freexian Meetup",
+            "horario_inicio": "17:00",
+            "horario_fim": "17:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Group photo",
+            "horario_inicio": "17:30",
+            "horario_fim": "18:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "18:00",
+            "horario_fim": "18:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian Contributors shake-up",
+            "horario_inicio": "18:30",
+            "horario_fim": "18:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Live Coding tools on Debian: How to install and setup",
+            "horario_inicio": "19:00",
+            "horario_fim": "21:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Debian Installer: Text Adventure",
+            "horario_inicio": "21:00",
+            "horario_fim": "22:30",
+            "tipo": "Other"
+        }
+    ],
+    "Tuesday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Opportunity Open Source conference in the IIT Mandi, India: Motivating people to be a part of us!",
+            "horario_inicio": "10:30",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "My life in git, after subversion, after CVS.",
+            "horario_inicio": "11:30",
+            "horario_fim": "12:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "DebConf bursary team BoF",
+            "horario_inicio": "12:30",
+            "horario_fim": "15:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Face-to-face Debian meetings in a climate crisis",
+            "horario_inicio": "15:30",
+            "horario_fim": "16:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "TuxMake with Debian",
+            "horario_inicio": "16:30",
+            "horario_fim": "17:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "EU Legislation BoF - Cyber Resilience Act, Product Liability Directive and CSAM Regulation",
+            "horario_inicio": "17:30",
+            "horario_fim": "18:00",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "18:00",
+            "horario_fim": "18:20",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Meet the Technical Committee",
+            "horario_inicio": "18:30",
+            "horario_fim": "18:50",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Automated vulnerability patching at scale in Debian",
+            "horario_inicio": "19:00",
+            "horario_fim": "22:30",
+            "tipo": "Other"
+        }
+    ],
+    "Thursday": [
+        {
+            "titulo": "Breakfast",
+            "horario_inicio": "07:00",
+            "horario_fim": "10:30",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Statement by the Project Leader",
+            "horario_inicio": "10:45",
+            "horario_fim": "11:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Lunch",
+            "horario_inicio": "11:30",
+            "horario_fim": "12:15",
+            "tipo": "Other"
+        },
+        {
+            "titulo": "Dinner",
+            "horario_inicio": "12:30",
+            "horario_fim": "12:45",
+            "tipo": "Other"
+        }
+    ]
+}

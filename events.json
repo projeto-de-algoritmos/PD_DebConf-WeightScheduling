@@ -1,0 +1,398 @@
+[
+    {
+        "titulo": "Adulting",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Eu Legislation workgroup",
+        "tipo": "Other"
+    },
+    {
+        "titulo": "Statement by the Project Leader",
+        "tipo": "Other"
+    },
+    {
+        "titulo": "Group photo",
+        "tipo": "Other"
+    },
+    {
+        "titulo": "Live Coding: Atelier permanent (art, experimentation, engineering)",
+        "tipo": "Other"
+    },
+    {
+        "titulo": "Job Fair",
+        "tipo": "Other"
+    },
+    {
+        "titulo": "Debian Installer: Text Adventure",
+        "tipo": "Workshop (2h)"
+    },
+    {
+        "titulo": "Live Coding tools on Debian: How to install and setup",
+        "tipo": "Workshop (2h)"
+    },
+    {
+        "titulo": "Live packaging workshop",
+        "tipo": "Workshop (2h)"
+    },
+    {
+        "titulo": "EU Legislation BoF - Cyber Resilience Act, Product Liability Directive and CSAM Regulation",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Poetry Event",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "When do News become too old?",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Localization of Mobile Linux",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "/usr-merge BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian Diversity BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "use Perl; # Annual meeting of the Debian Perl Group",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Face-to-face Debian meetings in a climate crisis",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Local Groups BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian Treasurer BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Salsa CI BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian Contributors shake-up",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Ruby team BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Live Coding for art, sound and visuals",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "DebianArt: Collaborating on Design and Art for Debian Campaigns",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Chatting with ftpmasters",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian Med BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian Brasil BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Python BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "DebConf 24 BoF & DebConf 25: In your city?",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "DebConf 25: In your city?",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "debian.social BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Debian.net team BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "DebConf bursary team BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Meet the Technical Committee",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "DebConf committee BoF",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Forming a SSH Cluster using old smartphones (Mobian and other  OSes) - Sustainable Computing",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "LXQt Team Bof",
+        "tipo": "BoF (45 minutes)"
+    },
+    {
+        "titulo": "Continuous Key-Signing Party introduction",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "How many mobile Linux developers does it take to ....",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Chiselled containers",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Digital Rights are Human Rights",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Sustainable solutions for self-hosting",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "What's missing so that Debian is finally reproducible?",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Impact of MiniDebConf in our campus.",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "New Member BOF",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Hello from keyring-maint",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Map Kerala Initiative",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Empower Your Users to Manage custom Debian Repository",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "The Docker(.io) ecosystem in Debian",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Debian: Resistance is Futile",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Quick peek at ZFS, A too good to be true file system and volume manager.",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Turn your spare laptop or any other device as a server",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Introduction to Proxmox Virtual Environment for home labs and beyond",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Sustainable Digital Intervention in Tribal and Remote areas of Andhra Pradesh using Freedom Box.",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Unnecessarily complicating your Debian mirror setup for fun and frustration",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Digital security with Free Software",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Meet (part of) the Ubuntu Server team",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "RISC-V meets Information Design: the Interactive \"Sliderules\" Instruction Set Architecture Cheatsheets",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "GNOME community and ways to engage.",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Bits from Brazil",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Migrating veteran FOSS projects to a modern workflow",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Closing Ceremony",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Freexian Meetup",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Community building in Free Software and focusing on DEI",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Gomti: A collection of PLL-based True RNG on FPGA",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Debian Reimbursement Web Application",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Mapping the Distribution of Gamma-Ray Bursts  using Open Data GIS",
+        "tipo": "Short talk (20 minutes)"
+    },
+    {
+        "titulo": "Past and future changes to the Debian web pages",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Private meeting",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Usability Report for the Debian Installation Process",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "A Guided Tour to Debian Installer Development",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "TuxMake with Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Home Automation using Free Software",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Java and FIPS",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Automated vulnerability patching at scale in Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Uplifting the gross roots using FOSS communities",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "My journey with homelabing with freenas, proxmox, pfsense and 2nd hand hardware...",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Designing for Debian and DebConf",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "A beginner's guide to debian packaging",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Debian Experience & Outreachy Project: Improve yarn package manager integration with Debian.",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "What's new in the Linux kernel (and what's missing in Debian)",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "The year of Linux On Desktop^WMobile",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Bits from the DPL",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Open Source Tools for Research",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Live Demos & Lightning Talks",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Lightning Talks",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Using FOSS to fight for Digital Freedom",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Isar - Building Images with the Power of Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Software Heritage: building a community to safeguard the Software Commons",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "The New Architecture for Printing and Scanning on Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "State of Stateless - A Talk about Immutability and Reproducibility in Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Intro to SecureDrop, a sort-of Linux distro",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Opportunity Open Source conference in the IIT Mandi, India: Motivating people to be a part of us!",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Teams, newcomers and numbers",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Opening Ceremony",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "My life in git, after subversion, after CVS.",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "Why Debian",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "From 5 to 100: The Debian Bras\u00edlia Community's Story",
+        "tipo": "Long talk (45 minutes)"
+    },
+    {
+        "titulo": "A declarative approach to Linux networking with Netplan",
+        "tipo": "Long talk (45 minutes)"
+    }
+]
