@@ -34,9 +34,14 @@ class EventTypeSpider(scrapy.Spider):
             with open(file_path, 'r') as fp:
                 existing_data = json.load(fp)
         except (json.JSONDecodeError, FileNotFoundError):
-            existing_data = {}
-        existing_data.update(catalogue)
-        with open(file_path, 'a') as fp:
+            existing_data = []
+
+        # catalogue_key = catalogue['titulo']
+
+        # Adicione o evento ao dicionário existente
+        existing_data.append(catalogue)
+
+        with open(file_path, 'w') as fp:
             json.dump(existing_data, fp, indent=4)
 
     def parse_dir_contents(self, response):
