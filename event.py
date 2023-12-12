@@ -57,16 +57,19 @@ def find_best_schedule(agenda):
     return list(reversed(best_programming))
 
 def get_data(day):
+    # pega os dados da agenda que estão salvos em json
     with open('./schedule.json', 'r') as fp:
         data_json = json.load(fp)
     return data_json[day]
     
 def get_weight():
+    # pega os dados da agenda que estão salvos em json
     with open('./events.json', 'r') as fp:
         data_type = json.load(fp)
     return data_type
 
 def include_weight(day):
+    # inclui no dicionario os tipos de cada atividade
     data_day = get_data(day)
     data_type = get_weight()
     for data in data_day:
@@ -77,8 +80,7 @@ def include_weight(day):
     return data_day
 
 def transform_type_in_value(data_with_weight, weight_event_type):
-    print(data_with_weight)
-    print(weight_event_type)
+    # transforma os tipos de cada atividade em pesos que o usuario definiu
     for data in data_with_weight:
         data['valor'] = weight_event_type[data['tipo']]
     return data_with_weight
