@@ -57,3 +57,7 @@ Não é necessário rodá-lo sempre que for usar, só na primeira vez ou quando 
 Para executar o programa, basta executar o arquivo **main.py** na raíz:
 
 ```python3 main.py```
+
+## Vídeo
+
+[Vídeo de apresentação](https://unbbr.sharepoint.com/:v:/s/ok632/EdB6pcMkSH1Pr3T4bOg1GwwByVrlIM9V8Nw_RuGPHndUOA?e=4jDFu9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
